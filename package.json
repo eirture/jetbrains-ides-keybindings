@@ -1,8 +1,9 @@
 {
   "name": "jetbrains-ides-keybindings",
-  "displayName": "jetbrains-ides-keybindings",
-  "description": "",
+  "displayName": "JetBrains IDEs Keybindings",
+  "description": "JetBrains IDEs Keybindings for Visual Studio Code",
   "version": "0.0.1",
+  "icon": "resources/icons/icon.png",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -11,7 +12,7 @@
     "url": "https://github.com/eirture/jetbrains-ides-keybindings"
   },
   "categories": [
-    "Other"
+    "Keymaps"
   ],
   "activationEvents": [],
   "main": "./out/extension.js",
